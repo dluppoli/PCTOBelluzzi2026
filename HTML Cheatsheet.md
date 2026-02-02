@@ -27,7 +27,7 @@
 
 ### Tag block level e inline
 - **Tag Block Level:** Vengono visualizzati sullo schermo andando a capo, prima e dopo il tag
-- **Tag Block Inline:** Vengono visualizzati senza andare a capo, all'interno del tag contenitore, nella posizione in cui sono stati inseriti
+- **Tag Inline:** Vengono visualizzati senza andare a capo, all'interno del tag contenitore, nella posizione in cui sono stati inseriti
 
 
 ### Tag di intestazione (block level)
